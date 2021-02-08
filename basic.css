@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    background-color: red;
+    text-align: center;
+    margin: 200px 40px 200px 40px;
+}
+
+.align{
+    display: inline-block;
+}
+
+#red{
+    background-color: red;
+    height: 200px;
+    width: 150px;
+}
+
+#white{
+    background-color: white;
+    height: 200px;
+    width: 150px;
+}
+
+#blue{
+    background-color: blue;
+    height: 200px;
+    width: 150px;
+}
